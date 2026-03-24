@@ -14,12 +14,6 @@
 
 </div>
 
-## 🌐 Redes Sociais
-<a href="[https://www.linkedin.com/in/marianimateus/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="[https://www.instagram.com/mateusxo_/?hl=pt-br]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
----
-
 ## 🚀 Linguagens e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -32,9 +26,10 @@
 ---
 
 ## 🧠 No que eu curto focar
-* **Back-end com Python:** Gosto da simplicidade e do poder de automação que a linguagem oferece.
+* **Ecossistema JavaScript:** Gosto da versatilidade da linguagem, tanto no Front-end com **React** quanto na manipulação dinâmica do DOM. Curto entender como o JS assíncrono funciona (Promises, Async/Await) para criar interfaces fluidas.
+* **Back-end com Python:** Gosto da simplicidade e do poder de automação/análise que a linguagem oferece.
+* **Clean Code:** Sempre tentando deixar o código mais legível e sustentável do que quando o encontrei.
 * **Interfaces com React:** Curto ver o resultado visual imediato e a componentização do Front-end.
-* **Clean Code:** Sempre tentando deixar o código mais legível do que quando o encontrei.
 
 ---
 
@@ -44,11 +39,3 @@
 * **Configuração de Ambiente Linux:** No início, quebrei a cabeça configurando distros (Ubuntu, Zorin, Fedora), o que me deu uma base sólida de terminal e permissões de sistema.
 * **Gerenciamento de Estado no Front:** Entender o fluxo de dados entre componentes no React foi um divisor de águas nos meus projetos.
 * **Lógica de Banco de Dados:** A transição de apenas salvar dados para estruturar relacionamentos eficientes no MySQL.
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[mateus-zanatta]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[mateus-zanatta]&layout=compact&langs_count=7&theme=dracula" />
-</div>
