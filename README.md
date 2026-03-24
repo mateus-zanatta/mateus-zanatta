@@ -34,8 +34,9 @@
 ---
 
 ## 🛠️ Desafios & Debugging (O que já superei)
-> "Um bom programador não é aquele que não comete erros, mas aquele que sabe como resolvê-los."
+> "Programar não é sobre não ter erros, é sobre desenvolver a lógica para encontrá-los e a resiliência para resolvê-los."
 
-* **Configuração de Ambiente Linux:** No início, quebrei a cabeça configurando distros (Ubuntu, Zorin, Fedora), o que me deu uma base sólida de terminal e permissões de sistema.
-* **Gerenciamento de Estado no Front:** Entender o fluxo de dados entre componentes no React foi um divisor de águas nos meus projetos.
-* **Lógica de Banco de Dados:** A transição de apenas salvar dados para estruturar relacionamentos eficientes no MySQL.
+* **Abstração de Lógica de Programação:** No início, transformar um problema do mundo real em algoritmos eficientes foi um grande desafio. Superei isso praticando lógica pura e entendendo que o código é apenas uma ferramenta para resolver problemas.
+* **Modelagem de Bancos de Dados:** Entendi na prática que salvar dados é fácil, o difícil é estruturá-los de forma relacional. Passei por desafios ao normalizar tabelas e garantir a integridade dos dados no **MySQL**, o que me deu uma visão muito mais sistêmica dos projetos.
+* **Depuração de Código Assíncrono:** Lidar com o fluxo de dados em JavaScript, especialmente com Promises e chamadas de API, me forçou a dominar as ferramentas de inspeção do navegador (DevTools) e a leitura técnica de logs de erro.
+* **Configuração de Ambiente Linux:** Superar o medo do terminal e configurar distribuições como Fedora e Ubuntu do zero me deu a base necessária para entender como o software interage com o sistema operacional.
