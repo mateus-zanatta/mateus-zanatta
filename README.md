@@ -31,8 +31,24 @@
 
 ---
 
+## 🧠 No que eu curto focar
+* **Back-end com Python:** Gosto da simplicidade e do poder de automação que a linguagem oferece.
+* **Interfaces com React:** Curto ver o resultado visual imediato e a componentização do Front-end.
+* **Clean Code:** Sempre tentando deixar o código mais legível do que quando o encontrei.
+
+---
+
+## 🛠️ Desafios & Debugging (O que já superei)
+> "Um bom programador não é aquele que não comete erros, mas aquele que sabe como resolvê-los."
+
+* **Configuração de Ambiente Linux:** No início, quebrei a cabeça configurando distros (Ubuntu, Zorin, Fedora), o que me deu uma base sólida de terminal e permissões de sistema.
+* **Gerenciamento de Estado no Front:** Entender o fluxo de dados entre componentes no React foi um divisor de águas nos meus projetos.
+* **Lógica de Banco de Dados:** A transição de apenas salvar dados para estruturar relacionamentos eficientes no MySQL.
+
+---
+
 ## 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[mateus-zanatta]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[mateus-zanatta]&layout=compact&langs_count=7&theme=dracula" />
 </div>
