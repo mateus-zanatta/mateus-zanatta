@@ -9,9 +9,6 @@
 
 ---
 
-[![Estrelas](https://img.shields.io/github/stars/[mateus-zanatta]?style=for-the-badge&color=4eb33e&logo=github)](https://github.com/[mateus-zanatta])
-[![Seguidores](https://img.shields.io/github/followers/[mateus-zanatta]?style=for-the-badge&color=007acc&logo=github)](https://github.com/[mateus-zanatta])
-
 </div>
 
 ## 🚀 Linguagens e Tecnologias
@@ -19,7 +16,7 @@
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
