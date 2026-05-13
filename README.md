@@ -9,8 +9,8 @@
 
 ---
 
-[![Estrelas](https://img.shields.io/github/stars/[seu-usuario]?style=for-the-badge&color=4eb33e&logo=github)](https://github.com/[seu-usuario])
-[![Seguidores](https://img.shields.io/github/followers/[seu-usuario]?style=for-the-badge&color=007acc&logo=github)](https://github.com/[seu-usuario])
+[![Estrelas](https://img.shields.io/github/stars/[mateus-zanatta]?style=for-the-badge&color=4eb33e&logo=github)](https://github.com/[mateus-zanatta])
+[![Seguidores](https://img.shields.io/github/followers/[mateus-zanatta]?style=for-the-badge&color=007acc&logo=github)](https://github.com/[mateus-zanatta])
 
 </div>
 
